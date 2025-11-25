@@ -1,0 +1,7 @@
+C:\Users\a.gavrin\Documents\csharp\TrialProtector\TrialProtector\bin\Debug\TrialProtector.exe.config
+C:\Users\a.gavrin\Documents\csharp\TrialProtector\TrialProtector\bin\Debug\TrialProtector.exe
+C:\Users\a.gavrin\Documents\csharp\TrialProtector\TrialProtector\bin\Debug\TrialProtector.pdb
+C:\Users\a.gavrin\Documents\csharp\TrialProtector\TrialProtector\obj\Debug\TrialProtector.csproj.AssemblyReference.cache
+C:\Users\a.gavrin\Documents\csharp\TrialProtector\TrialProtector\obj\Debug\TrialProtector.csproj.CoreCompileInputs.cache
+C:\Users\a.gavrin\Documents\csharp\TrialProtector\TrialProtector\obj\Debug\TrialProtector.exe
+C:\Users\a.gavrin\Documents\csharp\TrialProtector\TrialProtector\obj\Debug\TrialProtector.pdb

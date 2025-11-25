@@ -1,0 +1,6 @@
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HardwareBinding\bin\Debug\HardwareBinding.dll
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HardwareBinding\bin\Debug\HardwareBinding.pdb
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HardwareBinding\obj\Debug\HardwareBinding.csproj.AssemblyReference.cache
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HardwareBinding\obj\Debug\HardwareBinding.csproj.CoreCompileInputs.cache
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HardwareBinding\obj\Debug\HardwareBinding.dll
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HardwareBinding\obj\Debug\HardwareBinding.pdb

@@ -1,0 +1,10 @@
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBindingInstaller\bin\Debug\HwBindingInstaller.exe.config
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBindingInstaller\bin\Debug\HwBindingInstaller.exe
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBindingInstaller\bin\Debug\HwBindingInstaller.pdb
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBindingInstaller\obj\Debug\HwBindingInstaller.csproj.AssemblyReference.cache
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBindingInstaller\obj\Debug\HwBindingInstaller.csproj.CoreCompileInputs.cache
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBindingInstaller\obj\Debug\HwBindingInstaller.exe
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBindingInstaller\obj\Debug\HwBindingInstaller.pdb
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBindingInstaller\bin\Debug\HardwareBinding.dll
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBindingInstaller\bin\Debug\HardwareBinding.pdb
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBindingInstaller\obj\Debug\HwBindin.62F80ADD.Up2Date

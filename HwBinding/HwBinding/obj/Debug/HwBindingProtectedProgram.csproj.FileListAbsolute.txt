@@ -1,0 +1,7 @@
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBinding\bin\Debug\HwBinding.exe.config
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBinding\bin\Debug\HwBinding.exe
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBinding\bin\Debug\HwBinding.pdb
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBinding\obj\Debug\HwBindingProtectedProgram.csproj.AssemblyReference.cache
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBinding\obj\Debug\HwBindingProtectedProgram.csproj.CoreCompileInputs.cache
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBinding\obj\Debug\HwBinding.exe
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBinding\obj\Debug\HwBinding.pdb

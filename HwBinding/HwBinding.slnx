@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="HardwareBinding/HardwareBinding.csproj" />
+  <Project Path="HwBinding/HwBindingProtectedProgram.csproj" />
+  <Project Path="HwBindingInstaller/HwBindingInstaller.csproj" />
+</Solution>

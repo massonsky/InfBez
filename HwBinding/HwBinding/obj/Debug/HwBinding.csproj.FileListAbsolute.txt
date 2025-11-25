@@ -1,0 +1,2 @@
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBinding\obj\Debug\HwBinding.csproj.AssemblyReference.cache
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBinding\obj\Debug\HwBinding.csproj.CoreCompileInputs.cache

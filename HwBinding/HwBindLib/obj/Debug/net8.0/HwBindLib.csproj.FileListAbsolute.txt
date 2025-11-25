@@ -1,0 +1,11 @@
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBindLib\bin\Debug\net8.0\HwBindLib.deps.json
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBindLib\bin\Debug\net8.0\HwBindLib.dll
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBindLib\bin\Debug\net8.0\HwBindLib.pdb
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBindLib\obj\Debug\net8.0\HwBindLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBindLib\obj\Debug\net8.0\HwBindLib.AssemblyInfoInputs.cache
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBindLib\obj\Debug\net8.0\HwBindLib.AssemblyInfo.cs
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBindLib\obj\Debug\net8.0\HwBindLib.csproj.CoreCompileInputs.cache
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBindLib\obj\Debug\net8.0\HwBindLib.dll
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBindLib\obj\Debug\net8.0\refint\HwBindLib.dll
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBindLib\obj\Debug\net8.0\HwBindLib.pdb
+C:\Users\a.gavrin\Documents\csharp\HwBinding\HwBindLib\obj\Debug\net8.0\ref\HwBindLib.dll
